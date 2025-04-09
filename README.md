@@ -23,8 +23,8 @@ It supports basic arithmetic operations with a responsive and clean UI.
 ---
 
 ## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/9da158db-6599-4fd6-8fed-f0f84b47235c)
 
- ![image](https://github.com/user-attachments/assets/713ba045-9db8-42c5-846d-b5286db37a17)
 
 ## 📄 License
 
